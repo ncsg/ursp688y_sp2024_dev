@@ -1,0 +1,11 @@
+ID,Fruit,Quantity,Color,Available
+1,Apple,10.5,Red,True
+2,Orange,7.8,Orange,False
+3,Banana,5.2,Yellow,True
+4,Grape,3.6,Purple,False
+5,Kiwi,8.1,Brown,True
+6,Mango,6.7,Yellow,True
+7,Pineapple,9.2,Yellow,True
+8,Strawberry,4.5,Red,True
+9,Blueberry,3.8,Blue,True
+10,Watermelon,11.0,Green,False
