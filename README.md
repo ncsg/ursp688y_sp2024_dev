@@ -12,4 +12,4 @@ National Center for Smart Growth<br>
 
 This repository contains files and other course content for URSP688Y, *Urban Data Science and Smart Cities*, in Spring 2024. It will be updated regularly throughout the semester.
 
-Students should submit all assignments as pull requests to this repository. Any submitted materials may be made public.
+Students should submit all assignments as pull requests to this repository. Any submitted materials will be public.
