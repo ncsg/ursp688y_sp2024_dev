@@ -33,6 +33,20 @@ Students should submit all assignments as pull requests to this repository. Any 
 |[Week 13: Apr 29](#april-29th-week-13)|Zoom|
 |[Week 14: May 6](#may-6th-week-14)|In-Person|
 
+## Technology
+
+### Websites
+
+[GitHub](https://github.com/ncsg/ursp688y_sp2024): Coding demos and exercises
+
+[ELMS-Canvas](https://umd.instructure.com/courses/1362486): Readings, grades, and course communications
+
+### Equipment
+
+Please bring a laptop with Wi-Fi connectivity and an updated internet browser to every in-person class. For Zoom classes, please use a computer with a webcam (see “Zoom Guidelines,” below) and be prepared to work on your browser concurrent with my shared screen and camera feeds from classmates. This may take some creative arranging of windows. It may be helpful to have multiple monitors.
+
+If you have challenges accessing appropriate technology, please don’t assume it’s an impediment to taking this class. Let me know and I will try to help.
+
 ## Course Description
 
 Novel data and computational tools are reshaping planning, development, operation, and understanding of urban systems. These may enable more efficient and equitable distribution of resources, but may also reproduce injustices and divert attention away from more straightforward solutions. This course will introduce students to basic tools and applications for data science to examine urban systems while also challenging them to critique the role of technology in improving cities. What are data science's strengths and weaknesses? Where does it belong (or not) in our planning toolkits? How have planners and technologists appropriately espoused the capabilities of data science and smart cities? And how have these technologies failed to live up to their advertised capabilities? What questions can big data answer, and what issues does it raise? These overarching questions will guide parallel technical and theoretical threads throughout the semester.
@@ -145,6 +159,30 @@ Here are my suggestions:
 - If you're in a Googling death spiral and just can't find an answer, first ask a classmate—there's a good chance you've confronted the same issue—then ask me.
 - You are encouraged to work on exercises with a classmate. You're even welcome to submit the same code for exercises. Just note at the top of your submission who you worked with.
 
+## Grading
+
+Final letter grades will be assigned based on these ranges: 90-100%: A, 80-89%: B, 70-79%: C, 60-69%: D, 0-59%: F. Letters may be augmented by + or – at the high or low end of each range.
+
+## Accessibility and Disability Services
+
+The University of Maryland is committed to creating and maintaining a welcoming and inclusive educational, working, and living environment for people of all abilities. The University of Maryland is also committed to the principle that no qualified individual with a disability shall, on the basis of disability, be excluded from participation in or be denied the benefits of the services, programs, or activities of the University, or be subjected to discrimination. The [Accessibility & Disability Service (ADS)](https://www.counseling.umd.edu/ads/) provides reasonable accommodations to qualified individuals to provide equal access to services, programs and activities. ADS cannot assist retroactively, so it is generally best to request accommodations several weeks before the semester begins or as soon as a disability becomes known. Any student who needs accommodations should contact me as soon as possible so that I have sufficient time to make arrangements.
+
+For assistance in obtaining an accommodation, contact Accessibility and Disability Service at 301-314-7682, or email them at [adsfrontdesk@umd.edu](mailto:adsfrontdesk@umd.edu). Information about [sharing your accommodations with instructors, note taking assistance](https://www.counseling.umd.edu/ads/currentads/) and more is available from the [Counseling Center](http://counseling.umd.edu/ads/).
+
+## Notice of Mandatory Reporting
+
+Notice of mandatory reporting of sexual assault, sexual harassment, interpersonal violence, and stalking:  As a faculty member, I am designated as a "Responsible University Employee," and I must report all disclosures of sexual assault, sexual harassment, interpersonal violence, and stalking to UMD's Title IX Coordinator per University Policy on Sexual Harassment and Other Sexual Misconduct.
+
+If you wish to speak with someone confidentially, please contact one of UMD's confidential resources, such as [CARE to Stop Violence](https://health.umd.edu/CARE) (located on the Ground Floor of the Health Center) at 301-741-3442 or the [Counseling Center](https://counseling.umd.edu/) (located at the Shoemaker Building) at 301-314-7651.
+
+You may also seek assistance or supportive measures from UMD's Title IX Coordinator, Angela Nastase, by calling 301-405-1142 or emailing [titleixcoordinator@umd.edu](mailto:titleixcoordinator@umd.edu).
+
+To view further information on the above, please visit the Office of Civil Rights and Sexual Misconduct's website at [ocrsm.umd.edu](http://ocrsm.umd.edu/).
+
+## Other University Policies
+
+Please see UMD's [website for graduate course-related policies](https://gradschool.umd.edu/course-related-policies).
+
 ## Useful References
 
 ### Other Courses
@@ -189,7 +227,6 @@ This course is inspired by numerous other courses and colleagues, especially:
 ## Schedule
 
 ### January 29th (Week 1)
-(In-Person)
 
 - Course introduction
   - Student survey
@@ -219,7 +256,6 @@ This course is inspired by numerous other courses and colleagues, especially:
     - Web-based exercise submission workflow
 
 ### February 5th (Week 2)
-(Zoom)
 
 - More programming fundamentals
   - More intro to Python
@@ -243,7 +279,6 @@ This course is inspired by numerous other courses and colleagues, especially:
   - [Chapter 1: "Uneven Innovation: The Evolution of the Urban Technology Project" (pp. 1–30)] Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
 ### February 12th (Week 3)
-(Zoom)
 
 - Tabular Data Analysis
   - Table structure
@@ -260,7 +295,6 @@ This course is inspired by numerous other courses and colleagues, especially:
  Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
 ### February 19th (Week 4)
-(Zoom)
 
 - Reproducibility and collaboration
   - Connecting to Google Drive in Colab
@@ -276,7 +310,6 @@ This course is inspired by numerous other courses and colleagues, especially:
  Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
 ### February 26th (Week 5)
-(In-Person)
 
 - Accessing and wrangling data
   - Parsing JSON
@@ -288,7 +321,6 @@ This course is inspired by numerous other courses and colleagues, especially:
  Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
 ### March 4th (Week 6)
-(Zoom)
 
 - Basic data visualization
   - Principles of graphic communication
@@ -301,7 +333,6 @@ This course is inspired by numerous other courses and colleagues, especially:
  Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
 ### March 11th (Week 7)
-(Zoom)
 
 - Geospatial data
   - Most geoprocessing is just high school geometry
@@ -314,12 +345,13 @@ This course is inspired by numerous other courses and colleagues, especially:
   - Hanna, R., Kreindler, G., & Olken, B. A. (2017). Citywide effects of high-occupancy vehicle restrictions: Evidence from "three-in-one" in Jakarta. _Science_, _357_(6346), 89–93. [https://doi.org/10.1126/science.aan2747](https://doi.org/10.1126/science.aan2747)
   - Peng, Q., Knaap, G., & Finio, N. (2023). Do Multifamily unit Rents Increase in Response to Light Rail in the Pre-service Period? _International Regional Science Review_, 01600176231162563. [https://doi.org/10.1177/01600176231162563](https://doi.org/10.1177/01600176231162563)
 
-### March 18th — NO CLASS
+### March 18th (Spring Break)
 
-- Spring Break
+***NO CLASS***
 
 ### March 25th (Week 8)
-(NO CLASS)
+
+***NO CLASS***
 
 - Short proposal for final project due
 - Mid-week office hours to:
@@ -327,7 +359,6 @@ This course is inspired by numerous other courses and colleagues, especially:
   - Set up JupyterLab on personal computers if desired
 
 ### April 1st (Week 9)
-(Zoom)
 
 - Spatial visualization
   - Making good maps
@@ -339,7 +370,6 @@ This course is inspired by numerous other courses and colleagues, especially:
  Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
 ### April 8th (Week 10)
-(In-Person)
 
 - BI software: Tableau (guest lecture from Alibi Shokputov)
 - Reading seminar
@@ -347,7 +377,6 @@ This course is inspired by numerous other courses and colleagues, especially:
   - [choose one chapter] D'Ignazio, C., & Klein, L. F. (2020). _Data Feminism_. The MIT Press. [https://doi.org/10.7551/mitpress/11805.001.0001](https://doi.org/10.7551/mitpress/11805.001.0001)
 
 ### April 15th (Week 11)
-(Zoom)
 
 - Advanced spatial analysis
   - Networks
@@ -357,7 +386,6 @@ This course is inspired by numerous other courses and colleagues, especially:
   - Block, J. P., Scribner, R. A., & DeSalvo, K. B. (2004). Fast food, race/ethnicity, and income: A geographic analysis. _American Journal of Preventive Medicine_, _27_(3), 211–217. [https://doi.org/10.1016/j.amepre.2004.06.007](https://doi.org/10.1016/j.amepre.2004.06.007)
 
 ### April 22nd (Week 12)
-(Zoom)
 
 - Machine learning
   - Clustering
@@ -368,7 +396,6 @@ This course is inspired by numerous other courses and colleagues, especially:
  Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
 ### April 29th (Week 13)
-(Zoom)
 
 - [lab space held for a student-requested topic]
 - Reading seminar
@@ -378,11 +405,11 @@ This course is inspired by numerous other courses and colleagues, especially:
 - Final project consultations
 
 ### May 6th (Week 14)
-(In-Person)
 
 - Final project presentations
 
 ### May 13th
-(NO CLASS)
+
+***NO CLASS***
 
 - Final project due
