@@ -39,9 +39,9 @@ Students should submit all assignments as pull requests to this repository. Any 
 
 ### Websites
 
-[GitHub](https://github.com/ncsg/ursp688y_sp2024): Coding demos and exercises
+[GitHub](https://github.com/ncsg/ursp688y_sp2024) (Coding demos and exercises)
 
-[ELMS-Canvas](https://umd.instructure.com/courses/1362486): Readings, grades, and course communications
+[ELMS-Canvas](https://umd.instructure.com/courses/1362486) (Readings, grades, and course communications)
 
 ### Equipment
 
