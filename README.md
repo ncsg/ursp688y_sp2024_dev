@@ -71,7 +71,7 @@ A "clean result" means that I can rerun your code and arrive at the same number,
 
 Exercises will be assigned in each class and are due before the next class.
 
-Each exercise will have a Colab/Jupyter notebook available on the [course GitHub repository](https://github.com/ncsg/ursp688y_sp2024) ("repo"). Please this a standard GitHub workflow to submit each exercise (we'll go over this in class):
+Each exercise will have a Colab/Jupyter notebook available on the [course GitHub repository](https://github.com/ncsg/ursp688y_sp2024). Please use this standard GitHub workflow to submit each exercise (we'll go over this in class):
 
 1. Fork the course GitHub repo to your own account
  (you'll probably only have to do this once at the beginning of the course)
