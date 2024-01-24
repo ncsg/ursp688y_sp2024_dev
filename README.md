@@ -14,7 +14,7 @@ This repository contains files and other course content for URSP688Y, *Urban Dat
 
 Students should submit all assignments as pull requests to this repository. Any submitted materials will be public.
 
-## Quick Links
+## Quick Links & Overview
 ||||
 |:--|:--|:--|
 |[Week 1: Jan 29](#january-29th-week-1)|Course Introduction, Programming Fundamentals|***In-Person***|
