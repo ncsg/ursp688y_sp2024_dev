@@ -2,7 +2,7 @@
 
 [Jump to Schedule](#Schedule)
 
-[Jump to Week 1 - Jan 29](#January 29th (Week 1) — In-Person)
+[Jump to Week 1 - Jan 29](#january-29th-week-1--in-person)
 
 **URSP688Y**<br>
 **Spring 2024**<br>
