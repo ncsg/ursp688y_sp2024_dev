@@ -1,18 +1,31 @@
 # Urban Data Science and Smart Cities
 
 [Jump to Week 1 - Jan 29](#january-29th-week-1)
+
 [Jump to Week 2 - Feb 5](#february-5th-week-2)
+
 [Jump to Week 3 - Feb 12](#february-12th-week-3)
+
 [Jump to Week 4 - Feb 19](#february-19th-week-4)
+
 [Jump to Week 5 - Feb 26](#february-26th-week-5)
+
 [Jump to Week 6 - Mar 4](#march-4th-week-6)
+
 [Jump to Week 7 - Mar 11](#march-11th-week-7)
+
 [Jump to Week 8 - Mar 25](#march-25th-week-8)
+
 [Jump to Week 9 - Apr 1](#april-1st-week-9)
+
 [Jump to Week 10 - Apr 8](#april-8th-week-10)
+
 [Jump to Week 11 - Apr 15](#april-15th-week-11)
+
 [Jump to Week 12 - Apr 22](#april-22nd-week-12)
+
 [Jump to Week 13 - Apr 29](#april-29th-week-13)
+
 [Jump to Week 14 - May 6](#may-6th-week-14)
 
 **URSP688Y**<br>
