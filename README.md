@@ -24,7 +24,7 @@ Students should submit all assignments as pull requests to this repository. Any 
 |[Week 5: Feb 26](#february-26th-week-5)|***In-Person***|
 |[Week 6: Mar 4](#march-4th-week-6)|Zoom|
 |[Week 7: Mar 11](#march-11th-week-7)|Zoom|
-|[Spring Break: Mar 18](#march-18th-spring-break))|***NO CLASS***|
+|[Spring Break: Mar 18](#march-18th-spring-break)|***NO CLASS***|
 |[Week 8: Mar 25](#march-25th-week-8)|***NO CLASS***|
 |[Week 9: Apr 1](#april-1st-week-9)|Zoom|
 |[Week 10: Apr 8](#april-8th-week-10)|***In-Person***|
