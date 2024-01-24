@@ -1,6 +1,7 @@
 # Urban Data Science and Smart Cities
 
 [Jump to Schedule](#Schedule)
+
 [Jump to Week 1 - Jan 29](#January 29th (Week 1) — In-Person)
 
 **URSP688Y**<br>
