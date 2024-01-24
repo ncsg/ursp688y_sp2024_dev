@@ -1,6 +1,6 @@
 # Urban Data Science and Smart Cities
 
-[Jump to Schedule](##Schedule)
+[Jump to Schedule](#Schedule)
 
 **URSP688Y**<br>
 **Spring 2024**<br>
