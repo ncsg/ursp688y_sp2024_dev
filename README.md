@@ -1,11 +1,11 @@
 # Urban Data Science and Smart Cities
 
-## Schedule Overview
-|Week|Format|
+## Quick Links
+|||
 |:--|:--|
-|[Week 1 - Jan 29](#january-29th-week-1)| |
-|[Week 2 - Feb 5](#february-5th-week-2)| |
-|[Week 3 - Feb 12](#february-12th-week-3)| |
+|[Week 1 - Jan 29](#january-29th-week-1)|In-Person|
+|[Week 2 - Feb 5](#february-5th-week-2)|Zoom|
+|[Week 3 - Feb 12](#february-12th-week-3)|Zoom|
 |[Week 4 - Feb 19](#february-19th-week-4)| |
 |[Week 5 - Feb 26](#february-26th-week-5)| |
 |[Week 6 - Mar 4](#march-4th-week-6)| |
