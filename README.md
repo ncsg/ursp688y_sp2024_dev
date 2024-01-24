@@ -14,11 +14,6 @@ This repository contains files and other course content for URSP688Y, *Urban Dat
 
 Students should submit all assignments as pull requests to this repository. Any submitted materials will be public.
 
-Urban Studies and Planning Spring 2024
-
-National Center for Smart Growth Chester Harvey
- University of Maryland Updated 1/24/24
-
 ## Quick Links
 |||
 |:--|:--|
