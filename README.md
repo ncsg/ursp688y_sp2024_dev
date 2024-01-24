@@ -1,5 +1,6 @@
 # Urban Data Science and Smart Cities
 
+| | |
 |:--|:--|
 |[Jump to Week 1 - Jan 29](#january-29th-week-1)| |
 |[Jump to Week 2 - Feb 5](#february-5th-week-2)| |
