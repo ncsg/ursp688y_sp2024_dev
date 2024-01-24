@@ -18,19 +18,19 @@ Students should submit all assignments as pull requests to this repository. Any 
 ||||
 |:--|:--|:--|
 |[Week 1: Jan 29](#january-29th-week-1)|Course Introduction, Programming Fundamentals|***In-Person***|
-|[Week 2: Feb 5](#february-5th-week-2)|More Programming Fundamentals|Zoom|
-|[Week 3: Feb 12](#february-12th-week-3)|Tabular Analysis|Zoom|
-|[Week 4: Feb 19](#february-19th-week-4)|Reproducability & Collaboration|Zoom|
+|[Week 2: Feb 5](#february-5th-week-2)|More Programming Fundamentals|[Zoom](https://umd.zoom.us/j/97370863271)|
+|[Week 3: Feb 12](#february-12th-week-3)|Tabular Analysis|[Zoom](https://umd.zoom.us/j/97370863271)|
+|[Week 4: Feb 19](#february-19th-week-4)|Reproducability & Collaboration|[Zoom](https://umd.zoom.us/j/97370863271)|
 |[Week 5: Feb 26](#february-26th-week-5)|Accessing and Wrangling Data|***In-Person***|
-|[Week 6: Mar 4](#march-4th-week-6)|Basic Visualization|Zoom|
-|[Week 7: Mar 11](#march-11th-week-7)|Geospatial Data|Zoom|
+|[Week 6: Mar 4](#march-4th-week-6)|Basic Visualization|[Zoom](https://umd.zoom.us/j/97370863271)|
+|[Week 7: Mar 11](#march-11th-week-7)|Geospatial Data|[Zoom](https://umd.zoom.us/j/97370863271)|
 |[Spring Break: Mar 18](#march-18th-spring-break)|🏄|***NO CLASS***|
 |[Week 8: Mar 25](#march-25th-week-8)|Proposal Office Hours, Set up JupyterLab (optional)|***NO CLASS***|
-|[Week 9: Apr 1](#april-1st-week-9)|Spatial Visualization|Zoom|
+|[Week 9: Apr 1](#april-1st-week-9)|Spatial Visualization|[Zoom](https://umd.zoom.us/j/97370863271)|
 |[Week 10: Apr 8](#april-8th-week-10)|BI Software|***In-Person***|
-|[Week 11: Apr 15](#april-15th-week-11)|Advanced Spatial Analysis|Zoom|
-|[Week 12: Apr 22](#april-22nd-week-12)|Machine Learning|Zoom|
-|[Week 13: Apr 29](#april-29th-week-13)|(student-requested topic)|Zoom|
+|[Week 11: Apr 15](#april-15th-week-11)|Advanced Spatial Analysis|[Zoom](https://umd.zoom.us/j/97370863271)|
+|[Week 12: Apr 22](#april-22nd-week-12)|Machine Learning|[Zoom](https://umd.zoom.us/j/97370863271)|
+|[Week 13: Apr 29](#april-29th-week-13)|(student-requested topic)|[Zoom](https://umd.zoom.us/j/97370863271)|
 |[Week 14: May 6](#may-6th-week-14)|Final Project Presentations|***In-Person***|
 
 ## Technology
