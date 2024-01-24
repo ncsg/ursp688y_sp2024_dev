@@ -35,6 +35,8 @@ Students should submit all assignments as pull requests to this repository. Any 
 
 ## Technology
 
+[Zoom Room](https://umd.zoom.us/j/97370863271) (Zoom classes will *not* be recorded)
+
 ### Websites
 
 [GitHub](https://github.com/ncsg/ursp688y_sp2024): Coding demos and exercises
