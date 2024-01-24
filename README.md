@@ -25,19 +25,20 @@ National Center for Smart Growth Chester Harvey
 |[Week 1 - Jan 29](#january-29th-week-1)|In-Person|
 |[Week 2 - Feb 5](#february-5th-week-2)|Zoom|
 |[Week 3 - Feb 12](#february-12th-week-3)|Zoom|
-|[Week 4 - Feb 19](#february-19th-week-4)| |
-|[Week 5 - Feb 26](#february-26th-week-5)| |
-|[Week 6 - Mar 4](#march-4th-week-6)| |
-|[Week 7 - Mar 11](#march-11th-week-7)| |
-|[Week 8 - Mar 25](#march-25th-week-8)| |
-|[Week 9 - Apr 1](#april-1st-week-9)| |
-|[Week 10 - Apr 8](#april-8th-week-10)| |
-|[Week 11 - Apr 15](#april-15th-week-11)| |
-|[Week 12 - Apr 22](#april-22nd-week-12)| |
-|[Week 13 - Apr 29](#april-29th-week-13)| |
-|[Week 14 - May 6](#may-6th-week-14)| |
+|[Week 4 - Feb 19](#february-19th-week-4)|Zoom|
+|[Week 5 - Feb 26](#february-26th-week-5)|In-Person|
+|[Week 6 - Mar 4](#march-4th-week-6)|Zoom|
+|[Week 7 - Mar 11](#march-11th-week-7)|Zoom|
+|[Spring Break - Mar 18](#march-18th--no-class)|NO CLASS|
+|[Week 8 - Mar 25](#march-25th-week-8)|NO CLASS|
+|[Week 9 - Apr 1](#april-1st-week-9)|Zoom|
+|[Week 10 - Apr 8](#april-8th-week-10)|In-Person|
+|[Week 11 - Apr 15](#april-15th-week-11)|Zoom|
+|[Week 12 - Apr 22](#april-22nd-week-12)|Zoom|
+|[Week 13 - Apr 29](#april-29th-week-13)|Zoom|
+|[Week 14 - May 6](#may-6th-week-14)|In-Person|
 
-## Description
+## Course Description
 
 Novel data and computational tools are reshaping planning, development, operation, and understanding of urban systems. These may enable more efficient and equitable distribution of resources, but may also reproduce injustices and divert attention away from more straightforward solutions. This course will introduce students to basic tools and applications for data science to examine urban systems while also challenging them to critique the role of technology in improving cities. What are data science's strengths and weaknesses? Where does it belong (or not) in our planning toolkits? How have planners and technologists appropriately espoused the capabilities of data science and smart cities? And how have these technologies failed to live up to their advertised capabilities? What questions can big data answer, and what issues does it raise? These overarching questions will guide parallel technical and theoretical threads throughout the semester.
 
