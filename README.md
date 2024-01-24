@@ -10,7 +10,7 @@ Chester Harvey<br>
 National Center for Smart Growth<br>
 [cwharvey@umd.edu](cwharvey@umd.edu)
 
-This repository contains files and other course content for URSP688Y, *Urban Data Science and Smart Cities*, in Spring 2024. It will be updated regularly throughout the semester. Offical announcements, readings, and grades will be handled on [ELMS-Canvas](https://umd.instructure.com/courses/1362486). 
+This repository contains files and other course content for URSP688Y, *Urban Data Science and Smart Cities*, in Spring 2024. It will be updated regularly throughout the semester. Official announcements, readings, and grades will be handled on [ELMS-Canvas](https://umd.instructure.com/courses/1362486). 
 
 Students should submit all assignments as pull requests to this repository. Any submitted materials will be public.
 
