@@ -1,4 +1,4 @@
-# Urban Data Science and Smart Cities
+# Urban Data Science & Smart Cities
 **URSP688Y**<br>
 **Spring 2024**<br>
 Urban Studies and Planning<br>
