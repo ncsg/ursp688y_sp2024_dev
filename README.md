@@ -246,8 +246,6 @@ This course is inspired by numerous other courses and colleagues, especially:
     - Basic data structures
       - Single objects
       - Iterables
-      - Objects/Types
-    - Methods
     - Variables, operators, and statements
     - Comments
     - Debugging
@@ -261,10 +259,8 @@ This course is inspired by numerous other courses and colleagues, especially:
 
 - More programming fundamentals
   - More intro to Python
-    - Logic
-    - Conditions
-    - Loops
     - Functions
+    - Classes and methods
     - Namespaces
     - Goodies
       - Conditional expressions
