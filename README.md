@@ -15,9 +15,9 @@ This repository contains files and other course content for URSP688Y, *Urban Dat
 Students should submit all assignments as pull requests to this repository. Any submitted materials will be public.
 
 ## Quick Links & Overview
-||Topic|Format|Demo|Exercise|
+|Week|Topic|Format|Demo|Exercise|
 |:--|:--|:--|:--|:--|
-|[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ncsg/ursp688y_sp2024/blob/main/demos/demo01/demo01.ipynb)||
+|[Week 1: Jan 29](#january-29th-week-1)|Course Introduction, Programming Fundamentals|***In-Person***|[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ncsg/ursp688y_sp2024/blob/main/demos/demo01/demo01.ipynb)||
 |[Week 2: Feb 5](#february-5th-week-2)|More Programming Fundamentals|[Zoom](https://umd.zoom.us/j/97370863271)|||
 |[Week 3: Feb 12](#february-12th-week-3)|Tabular Analysis|[Zoom](https://umd.zoom.us/j/97370863271)|||
 |[Week 4: Feb 19](#february-19th-week-4)|Reproducability & Collaboration|[Zoom](https://umd.zoom.us/j/97370863271)|||
