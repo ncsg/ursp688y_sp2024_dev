@@ -1,4 +1,4 @@
-# Urban Data Science and Smart Cities
+# Urban Data Science & Smart Cities
 **URSP688Y**<br>
 **Spring 2024**<br>
 Urban Studies and Planning<br>
@@ -14,24 +14,40 @@ This repository contains files and other course content for URSP688Y, *Urban Dat
 
 Students should submit all assignments as pull requests to this repository. Any submitted materials will be public.
 
-## Quick Links
-|||
-|:--|:--|
-|[Week 1: Jan 29](#january-29th-week-1)|In-Person|
-|[Week 2: Feb 5](#february-5th-week-2)|Zoom|
-|[Week 3: Feb 12](#february-12th-week-3)|Zoom|
-|[Week 4: Feb 19](#february-19th-week-4)|Zoom|
-|[Week 5: Feb 26](#february-26th-week-5)|In-Person|
-|[Week 6: Mar 4](#march-4th-week-6)|Zoom|
-|[Week 7: Mar 11](#march-11th-week-7)|Zoom|
-|[Spring Break: Mar 18](#march-18th--no-class)|NO CLASS|
-|[Week 8: Mar 25](#march-25th-week-8)|NO CLASS|
-|[Week 9: Apr 1](#april-1st-week-9)|Zoom|
-|[Week 10: Apr 8](#april-8th-week-10)|In-Person|
-|[Week 11: Apr 15](#april-15th-week-11)|Zoom|
-|[Week 12: Apr 22](#april-22nd-week-12)|Zoom|
-|[Week 13: Apr 29](#april-29th-week-13)|Zoom|
-|[Week 14: May 6](#may-6th-week-14)|In-Person|
+## Quick Links & Overview
+||||
+|:--|:--|:--|
+|[Week 1: Jan 29](#january-29th-week-1)|Course Introduction, Programming Fundamentals|***In-Person***|
+|[Week 2: Feb 5](#february-5th-week-2)|More Programming Fundamentals|[Zoom](https://umd.zoom.us/j/97370863271)|
+|[Week 3: Feb 12](#february-12th-week-3)|Tabular Analysis|[Zoom](https://umd.zoom.us/j/97370863271)|
+|[Week 4: Feb 19](#february-19th-week-4)|Reproducability & Collaboration|[Zoom](https://umd.zoom.us/j/97370863271)|
+|[Week 5: Feb 26](#february-26th-week-5)|Accessing and Wrangling Data|***In-Person***|
+|[Week 6: Mar 4](#march-4th-week-6)|Basic Visualization|[Zoom](https://umd.zoom.us/j/97370863271)|
+|[Week 7: Mar 11](#march-11th-week-7)|Geospatial Data|[Zoom](https://umd.zoom.us/j/97370863271)|
+|[Spring Break: Mar 18](#march-18th-spring-break)|🏄|***NO CLASS***|
+|[Week 8: Mar 25](#march-25th-week-8)|Proposal Office Hours, Set up JupyterLab (optional)|***NO CLASS***|
+|[Week 9: Apr 1](#april-1st-week-9)|Spatial Visualization|[Zoom](https://umd.zoom.us/j/97370863271)|
+|[Week 10: Apr 8](#april-8th-week-10)|BI Software|***In-Person***|
+|[Week 11: Apr 15](#april-15th-week-11)|Advanced Spatial Analysis|[Zoom](https://umd.zoom.us/j/97370863271)|
+|[Week 12: Apr 22](#april-22nd-week-12)|Machine Learning|[Zoom](https://umd.zoom.us/j/97370863271)|
+|[Week 13: Apr 29](#april-29th-week-13)|(student-requested topic)|[Zoom](https://umd.zoom.us/j/97370863271)|
+|[Week 14: May 6](#may-6th-week-14)|Final Project Presentations|***In-Person***|
+
+## Technology
+
+[Zoom Room](https://umd.zoom.us/j/97370863271) (Zoom classes will *not* be recorded)
+
+### Websites
+
+[GitHub](https://github.com/ncsg/ursp688y_sp2024) (Coding demos and exercises)
+
+[ELMS-Canvas](https://umd.instructure.com/courses/1362486) (Readings, grades, and course communications)
+
+### Equipment
+
+Please bring a laptop with Wi-Fi connectivity and an updated internet browser to every in-person class. For Zoom classes, please use a computer with a webcam (see “Zoom Guidelines,” below) and be prepared to work on your browser concurrent with my shared screen and camera feeds from classmates. This may take some creative arranging of windows. It may be helpful to have multiple monitors.
+
+If you have challenges accessing appropriate technology, please don’t assume it’s an impediment to taking this class. Let me know and I will try to help.
 
 ## Course Description
 
@@ -73,13 +89,13 @@ Exercises will be assigned in each class and are due before the next class.
 
 Each exercise will have a Colab/Jupyter notebook available on the [course GitHub repository](https://github.com/ncsg/ursp688y_sp2024). Please use this standard GitHub workflow to submit each exercise (we'll go over this in class):
 
-1. Fork the course GitHub repo to your own account
+0. Fork the course GitHub repo to your own account
  (you'll probably only have to do this once at the beginning of the course)
-2. Make a copy of the notebook in your own fork with you last name as an underscored suffix
+1. Make a copy of the notebook in your own fork with you last name as an underscored suffix
  (e.g., `exercise01_harvey.ipynb`)
-3. Complete the exercise in your copy of the notebook
-4. Commit your notebook (and any other necessary files) to your fork
-5. Make a pull request of your fork to the course repo
+2. Complete the exercise in your copy of the notebook
+3. Commit your notebook (and any other necessary files) to your fork
+4. Make a pull request of your fork to the course repo
 
 Please note that all pull requests to course repo will be publicly viewable.
 
@@ -145,6 +161,30 @@ Here are my suggestions:
 - If you're in a Googling death spiral and just can't find an answer, first ask a classmate—there's a good chance you've confronted the same issue—then ask me.
 - You are encouraged to work on exercises with a classmate. You're even welcome to submit the same code for exercises. Just note at the top of your submission who you worked with.
 
+## Grading
+
+Final letter grades will be assigned based on these ranges: 90-100%: A, 80-89%: B, 70-79%: C, 60-69%: D, 0-59%: F. Letters may be augmented by + or – at the high or low end of each range.
+
+## Accessibility and Disability Services
+
+The University of Maryland is committed to creating and maintaining a welcoming and inclusive educational, working, and living environment for people of all abilities. The University of Maryland is also committed to the principle that no qualified individual with a disability shall, on the basis of disability, be excluded from participation in or be denied the benefits of the services, programs, or activities of the University, or be subjected to discrimination. The [Accessibility & Disability Service (ADS)](https://www.counseling.umd.edu/ads/) provides reasonable accommodations to qualified individuals to provide equal access to services, programs and activities. ADS cannot assist retroactively, so it is generally best to request accommodations several weeks before the semester begins or as soon as a disability becomes known. Any student who needs accommodations should contact me as soon as possible so that I have sufficient time to make arrangements.
+
+For assistance in obtaining an accommodation, contact Accessibility and Disability Service at 301-314-7682, or email them at [adsfrontdesk@umd.edu](mailto:adsfrontdesk@umd.edu). Information about [sharing your accommodations with instructors, note taking assistance](https://www.counseling.umd.edu/ads/currentads/) and more is available from the [Counseling Center](http://counseling.umd.edu/ads/).
+
+## Notice of Mandatory Reporting
+
+Notice of mandatory reporting of sexual assault, sexual harassment, interpersonal violence, and stalking:  As a faculty member, I am designated as a "Responsible University Employee," and I must report all disclosures of sexual assault, sexual harassment, interpersonal violence, and stalking to UMD's Title IX Coordinator per University Policy on Sexual Harassment and Other Sexual Misconduct.
+
+If you wish to speak with someone confidentially, please contact one of UMD's confidential resources, such as [CARE to Stop Violence](https://health.umd.edu/CARE) (located on the Ground Floor of the Health Center) at 301-741-3442 or the [Counseling Center](https://counseling.umd.edu/) (located at the Shoemaker Building) at 301-314-7651.
+
+You may also seek assistance or supportive measures from UMD's Title IX Coordinator, Angela Nastase, by calling 301-405-1142 or emailing [titleixcoordinator@umd.edu](mailto:titleixcoordinator@umd.edu).
+
+To view further information on the above, please visit the Office of Civil Rights and Sexual Misconduct's website at [ocrsm.umd.edu](http://ocrsm.umd.edu/).
+
+## Other University Policies
+
+Please see UMD's [website for graduate course-related policies](https://gradschool.umd.edu/course-related-policies).
+
 ## Useful References
 
 ### Other Courses
@@ -189,7 +229,6 @@ This course is inspired by numerous other courses and colleagues, especially:
 ## Schedule
 
 ### January 29th (Week 1)
-(In-Person)
 
 - Course introduction
   - Student survey
@@ -207,8 +246,6 @@ This course is inspired by numerous other courses and colleagues, especially:
     - Basic data structures
       - Single objects
       - Iterables
-      - Objects/Types
-    - Methods
     - Variables, operators, and statements
     - Comments
     - Debugging
@@ -219,14 +256,11 @@ This course is inspired by numerous other courses and colleagues, especially:
     - Web-based exercise submission workflow
 
 ### February 5th (Week 2)
-(Zoom)
 
 - More programming fundamentals
   - More intro to Python
-    - Logic
-    - Conditions
-    - Loops
     - Functions
+    - Classes and methods
     - Namespaces
     - Goodies
       - Conditional expressions
@@ -243,9 +277,8 @@ This course is inspired by numerous other courses and colleagues, especially:
   - [Chapter 1: "Uneven Innovation: The Evolution of the Urban Technology Project" (pp. 1–30)] Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
 ### February 12th (Week 3)
-(Zoom)
 
-- Tabular Data Analysis
+- Tabular Analysis
   - Table structure
     - Tidy data
     - Wide vs. Long
@@ -260,7 +293,6 @@ This course is inspired by numerous other courses and colleagues, especially:
  Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
 ### February 19th (Week 4)
-(Zoom)
 
 - Reproducibility and collaboration
   - Connecting to Google Drive in Colab
@@ -276,9 +308,9 @@ This course is inspired by numerous other courses and colleagues, especially:
  Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
 ### February 26th (Week 5)
-(In-Person)
 
 - Accessing and wrangling data
+  - APIs
   - Parsing JSON
   - Messy data
   - Big data
@@ -288,9 +320,8 @@ This course is inspired by numerous other courses and colleagues, especially:
  Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
 ### March 4th (Week 6)
-(Zoom)
 
-- Basic data visualization
+- Basic visualization
   - Principles of graphic communication
   - Matplotlib
   - Seaborn
@@ -301,7 +332,6 @@ This course is inspired by numerous other courses and colleagues, especially:
  Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
 ### March 11th (Week 7)
-(Zoom)
 
 - Geospatial data
   - Most geoprocessing is just high school geometry
@@ -314,12 +344,13 @@ This course is inspired by numerous other courses and colleagues, especially:
   - Hanna, R., Kreindler, G., & Olken, B. A. (2017). Citywide effects of high-occupancy vehicle restrictions: Evidence from "three-in-one" in Jakarta. _Science_, _357_(6346), 89–93. [https://doi.org/10.1126/science.aan2747](https://doi.org/10.1126/science.aan2747)
   - Peng, Q., Knaap, G., & Finio, N. (2023). Do Multifamily unit Rents Increase in Response to Light Rail in the Pre-service Period? _International Regional Science Review_, 01600176231162563. [https://doi.org/10.1177/01600176231162563](https://doi.org/10.1177/01600176231162563)
 
-### March 18th — NO CLASS
+### March 18th (Spring Break)
 
-- Spring Break
+***NO CLASS***
 
 ### March 25th (Week 8)
-(NO CLASS)
+
+***NO CLASS***
 
 - Short proposal for final project due
 - Mid-week office hours to:
@@ -327,7 +358,6 @@ This course is inspired by numerous other courses and colleagues, especially:
   - Set up JupyterLab on personal computers if desired
 
 ### April 1st (Week 9)
-(Zoom)
 
 - Spatial visualization
   - Making good maps
@@ -339,7 +369,6 @@ This course is inspired by numerous other courses and colleagues, especially:
  Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
 ### April 8th (Week 10)
-(In-Person)
 
 - BI software: Tableau (guest lecture from Alibi Shokputov)
 - Reading seminar
@@ -347,7 +376,6 @@ This course is inspired by numerous other courses and colleagues, especially:
   - [choose one chapter] D'Ignazio, C., & Klein, L. F. (2020). _Data Feminism_. The MIT Press. [https://doi.org/10.7551/mitpress/11805.001.0001](https://doi.org/10.7551/mitpress/11805.001.0001)
 
 ### April 15th (Week 11)
-(Zoom)
 
 - Advanced spatial analysis
   - Networks
@@ -357,7 +385,6 @@ This course is inspired by numerous other courses and colleagues, especially:
   - Block, J. P., Scribner, R. A., & DeSalvo, K. B. (2004). Fast food, race/ethnicity, and income: A geographic analysis. _American Journal of Preventive Medicine_, _27_(3), 211–217. [https://doi.org/10.1016/j.amepre.2004.06.007](https://doi.org/10.1016/j.amepre.2004.06.007)
 
 ### April 22nd (Week 12)
-(Zoom)
 
 - Machine learning
   - Clustering
@@ -368,7 +395,6 @@ This course is inspired by numerous other courses and colleagues, especially:
  Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
 ### April 29th (Week 13)
-(Zoom)
 
 - [lab space held for a student-requested topic]
 - Reading seminar
@@ -378,11 +404,11 @@ This course is inspired by numerous other courses and colleagues, especially:
 - Final project consultations
 
 ### May 6th (Week 14)
-(In-Person)
 
 - Final project presentations
 
 ### May 13th
-(NO CLASS)
+
+***NO CLASS***
 
 - Final project due
