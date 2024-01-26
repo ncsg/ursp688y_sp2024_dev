@@ -122,11 +122,11 @@ Projects may take two forms: (1) a functioning analysis with input data and a co
 
 ### Functional Analysis
 
-You will develop a well-documented repository of data and code, along with a short accompanying narrative describing the project's motivation, central question, approach, results, and discussion of their meaning. The narrative may be either a traditional paper or a customized webpage/site/app that combines text and graphics. Narratives for this option are expected to be approximately 1,500 words (3 pages, single spaced).
+You will develop a well-documented repository of data and code, along with a short accompanying narrative describing the project's motivation, central question, approach, results, and discussion of their meaning. The narrative may be either a traditional paper or a customized webpage/site/app that combines text and graphics. Narratives for this option are expected to be 1,000–1,500 words (2–3 pages, single spaced).
 
 ### Proposal
 
-You will write a paper with sections similar to the narrative described above, but with considerably more detail about the proposed approach. In lieu of conducting the analysis, you must convincingly portray how it will be conducted (when it is funded, of course), including proposed data sources and tools. The proposal should also include expanded discussion of smart cities theory to support and critique how your approach relates to equity, both in the substantive question it addresses and opportunities or issues it raises methodologically. This will likely draw on literature outside of what is assigned for the course. Narratives for this option are expected to be approximately 6,500 words (12 pages, single spaced).
+You will write a paper with sections similar to the narrative described above, but with considerably more detail about the proposed approach. In lieu of conducting the analysis, you must convincingly portray how it will be conducted (when it is funded, of course), including proposed data sources and tools. The proposal should also include expanded discussion of smart cities theory to support and critique how your approach relates to equity, both in the substantive question it addresses and opportunities or issues it raises methodologically. This will likely draw on literature outside of what is assigned for the course. Narratives for this option are expected to be 4,000–6,500 words (8–12 pages, single spaced).
 
 Convincing proposals are crucial in both research and practice. Imagine you are applying for a grant to fund a research project or responding to an RFP issued by a public agency. In both cases, you need to convince the reader that your approach is actionable. It should also be intelligible for a non-expert audience. Writing with this combination precision and clarity is a valuable skill to hone.
 
@@ -231,28 +231,25 @@ This course is inspired by numerous other courses and colleagues, especially:
 ### January 29th (Week 1)
 
 - Course introduction
-  - Student survey
   - Why data science?
-    - Reproducibility
-    - Scalability
-    - Collaboration
   - Why _urban_ data science?
-  - Smart cities opportunities and challenges
+  - Opportunities and challenges
   - Plan for the semester
 - Programming fundamentals
   - Colab notebooks
-  - Intro to Python
+  - Intro to programming (with Python)
     - Why Python?
-    - Basic data structures
-      - Single objects
-      - Iterables
-    - Variables, operators, and statements
-    - Comments
-    - Debugging
-  - Pseudocode
-  - GitHub
-    - Account creation
-    - Exercise submission workflow
+    - Variables
+    - Syntax vs. style
+    - Basic data types
+    - Programming logic
+      - Conditions
+      - Loops
+    - Errors and debugging
+- Pseudocode
+- GitHub
+  - Intro
+  - Submitting exercises
 
 ### February 5th (Week 2)
 
