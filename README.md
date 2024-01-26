@@ -251,9 +251,8 @@ This course is inspired by numerous other courses and colleagues, especially:
     - Debugging
   - Pseudocode
   - GitHub
-    - Intro
     - Account creation
-    - Web-based exercise submission workflow
+    - Exercise submission workflow
 
 ### February 5th (Week 2)
 
