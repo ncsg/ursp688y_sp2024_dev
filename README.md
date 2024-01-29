@@ -140,6 +140,13 @@ We will read Jennifer Clark's book on smart cities, _Uneven Innovation_, from co
 
 Clark, J. (2020). _Uneven Innovation: The Work of Smart Cities_. Columbia University Press. ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
 
+## Professional Communication
+
+Please use this course as an opportunity to practice professional communication with me and your student colleagues. Follow professional etiquette in email correspondence. Grammarly has an [excellent guide](https://www.grammarly.com/blog/email-etiquette-rules-to-know/). Please call me “Chester”; note that other professors may prefer more formal titles. Introduce your preferred pronouns—mine are he/him/his—and refer to others by their preferred pronouns.
+
+I typically read and send email during regular business hours: 9am to 5pm ET on weekdays. I aim to address time-sensitive email within one business day, but may take longer. If you send me an email on Friday, I may not get back to you until the next week.
+Please plan ahead and don’t expect an immediate response.
+
 ## Zoom Guidelines­­­—'Cameras On' Norm
 
 On Zoom, we will have a 'cameras on' norm to promote focus and collegiality. Many of us will have unideal environments or technological hiccups. This is okay. However, please do your best to minimize distractions for you and your classmates.
