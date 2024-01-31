@@ -35,7 +35,7 @@ Students should submit all assignments as pull requests to this repository. Any 
 
 ## Technology
 
-[Zoom Room](https://umd.zoom.us/j/97370863271) (Zoom classes will *not* be recorded)
+[Zoom Room](https://umd.zoom.us/j/97370863271)
 
 ### Websites
 
