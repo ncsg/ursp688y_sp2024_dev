@@ -18,24 +18,24 @@ Students should submit all assignments as pull requests to this repository. Any 
 |Week|Topic|Format|Discussion Leader|Demo|Exercise|
 |:--|:--|:--|:--|:--|:--|
 |[Week 1: Jan 29](#january-29th-week-1)|[Course Introduction](https://docs.google.com/presentation/d/1vllGdhjq-d0KDmlYgA3P2gRUajX4qryOYB5n8_H7aEw/edit?usp=sharing), Programming Fundamentals|***In-Person***|-|[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ncsg/ursp688y_sp2024/blob/main/demos/demo01/demo01.ipynb)|[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ncsg/ursp688y_sp2024/blob/main/exercises/exercise01/exercise01.ipynb)|
-|[Week 2: Feb 5](#february-5th-week-2)|More Programming Fundamentals|[Zoom](https://umd.zoom.us/j/97370863271)||||
-|[Week 3: Feb 12](#february-12th-week-3)|Tabular Analysis|[Zoom](https://umd.zoom.us/j/97370863271)||||
-|[Week 4: Feb 19](#february-19th-week-4)|Reproducability & Collaboration|[Zoom](https://umd.zoom.us/j/97370863271)||||
+|[Week 2: Feb 5](#february-5th-week-2)|More Programming Fundamentals|[Zoom](https://umd.zoom.us/j/97370863271)|Jesse|||
+|[Week 3: Feb 12](#february-12th-week-3)|Tabular Analysis|[Zoom](https://umd.zoom.us/j/97370863271)|Kayla Woods|||
+|[Week 4: Feb 19](#february-19th-week-4)|Reproducability & Collaboration|[Zoom](https://umd.zoom.us/j/97370863271)|Jona|||
 |[Week 5: Feb 26](#february-26th-week-5)|Accessing and Wrangling Data|***In-Person***|Mimi Sanford|||
-|[Week 6: Mar 4](#march-4th-week-6)|Basic Visualization|[Zoom](https://umd.zoom.us/j/97370863271)|Salma Haoudi|||
-|[Week 7: Mar 11](#march-11th-week-7)|Geospatial Data|[Zoom](https://umd.zoom.us/j/97370863271)||||
+|[Week 6: Mar 4](#march-4th-week-6)|Basic Visualization|[Zoom](https://umd.zoom.us/j/97370863271)|Alanna Anderson, Salma Haoudi|||
+|[Week 7: Mar 11](#march-11th-week-7)|Geospatial Data|[Zoom](https://umd.zoom.us/j/97370863271)|Emma Walker|||
 |[Spring Break: Mar 18](#march-18th-spring-break)|🏄|***NO CLASS***|-|-|-|
 |[Week 8: Mar 25](#march-25th-week-8)|Proposal Office Hours, Set up JupyterLab (optional)|***NO CLASS***|-|-|-|
-|[Week 9: Apr 1](#april-1st-week-9)|Spatial Visualization|[Zoom](https://umd.zoom.us/j/97370863271)||||
-|[Week 10: Apr 8](#april-8th-week-10)|BI Software|***In-Person***||||
-|[Week 11: Apr 15](#april-15th-week-11)|Advanced Spatial Analysis|[Zoom](https://umd.zoom.us/j/97370863271)||||
-|[Week 12: Apr 22](#april-22nd-week-12)|Machine Learning|[Zoom](https://umd.zoom.us/j/97370863271)||||
-|[Week 13: Apr 29](#april-29th-week-13)|(student-requested topic)|[Zoom](https://umd.zoom.us/j/97370863271)||||
+|[Week 9: Apr 1](#april-1st-week-9)|Spatial Visualization|[Zoom](https://umd.zoom.us/j/97370863271)|Thomas Suchecki|||
+|[Week 10: Apr 8](#april-8th-week-10)|BI Software|***In-Person***|Tayo A Taiwo|||
+|[Week 11: Apr 15](#april-15th-week-11)|Advanced Spatial Analysis|[Zoom](https://umd.zoom.us/j/97370863271)|Saiful Alam|||||
+|[Week 12: Apr 22](#april-22nd-week-12)|Machine Learning|[Zoom](https://umd.zoom.us/j/97370863271)|Homayoon Aghili|||
+|[Week 13: Apr 29](#april-29th-week-13)|(student-requested topic)|[Zoom](https://umd.zoom.us/j/97370863271)|Ebenezer Amanguah|||
 |[Week 14: May 6](#may-6th-week-14)|Final Project Presentations|***In-Person***|-|-|-|
 
 ## Technology
 
-[Zoom Room](https://umd.zoom.us/j/97370863271) (Zoom classes will *not* be recorded)
+[Zoom Room](https://umd.zoom.us/j/97370863271)
 
 ### Websites
 
