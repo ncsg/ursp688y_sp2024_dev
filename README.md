@@ -21,7 +21,7 @@ Students should submit all assignments as pull requests to this repository. Any 
 |[Week 2: Feb 5](#february-5th-week-2)|More Programming Fundamentals|[Zoom](https://umd.zoom.us/j/97370863271)|Jesse|||
 |[Week 3: Feb 12](#february-12th-week-3)|Tabular Analysis|[Zoom](https://umd.zoom.us/j/97370863271)|Kayla|||
 |[Week 4: Feb 19](#february-19th-week-4)|Reproducability & Collaboration|[Zoom](https://umd.zoom.us/j/97370863271)|Jona|||
-|[Week 5: Feb 26](#february-26th-week-5)|Accessing and Wrangling Data|***In-Person***|Mimi Sanford|||
+|[Week 5: Feb 26](#february-26th-week-5)|Accessing and Wrangling Data|***In-Person***|Mimi|||
 |[Week 6: Mar 4](#march-4th-week-6)|Basic Visualization|[Zoom](https://umd.zoom.us/j/97370863271)|Alanna, Salma|||
 |[Week 7: Mar 11](#march-11th-week-7)|Geospatial Data|[Zoom](https://umd.zoom.us/j/97370863271)|Emma|||
 |[Spring Break: Mar 18](#march-18th-spring-break)|🏄|***NO CLASS***|-|-|-|
