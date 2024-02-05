@@ -252,7 +252,7 @@ This course is inspired by numerous other courses and colleagues, especially:
     - ~~Programming logic~~
       - ~~Conditions~~
       - ~~Loops~~
-    - Errors ~~and debugging~~
+    - ~~Errors and debugging~~
 - ~~Pseudocode~~
 - GitHub
   - Intro
@@ -274,7 +274,7 @@ This course is inspired by numerous other courses and colleagues, especially:
       - List comprehensions
       - ~~Recursion~~
     - ~~Packages~~
-    - Debugging tools
+    - Errors and debugging
     - ~~Building and troubleshooting~~
       - ~~Documentation~~
       - ~~Google~~
