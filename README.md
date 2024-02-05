@@ -262,9 +262,13 @@ This course is inspired by numerous other courses and colleagues, especially:
 
 - More programming fundamentals
   - More intro to Python
+    - Basic data types
+    - Programming logic
+      - Conditions
+      - Loops
     - Functions
+      - Namespaces
     - ~~Classes and methods~~
-    - Namespaces
     - Goodies
       - Conditional expressions
       - List comprehensions
