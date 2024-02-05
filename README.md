@@ -248,12 +248,12 @@ This course is inspired by numerous other courses and colleagues, especially:
     - Why Python?
     - Variables
     - Syntax vs. style
-    - Basic data types
-    - Programming logic
-      - Conditions
-      - Loops
-    - Errors and debugging
-- Pseudocode
+    - ~~Basic data types~~
+    - ~~Programming logic~~
+      - ~~Conditions~~
+      - ~~Loops~~
+    - Errors ~~and debugging~~
+- ~~Pseudocode~~
 - GitHub
   - Intro
   - Submitting exercises
