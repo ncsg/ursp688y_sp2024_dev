@@ -263,18 +263,18 @@ This course is inspired by numerous other courses and colleagues, especially:
 - More programming fundamentals
   - More intro to Python
     - Functions
-    - Classes and methods
+    - ~~Classes and methods~~
     - Namespaces
     - Goodies
       - Conditional expressions
       - List comprehensions
-      - Recursion
-    - Packages
-    - Advanced debugging
-    - Building and troubleshooting
-      - Documentation
-      - Google
-      - Generative AI
+      - ~~Recursion~~
+    - ~~Packages~~
+    - Debugging tools
+    - ~~Building and troubleshooting~~
+      - ~~Documentation~~
+      - ~~Google~~
+      - ~~Generative AI~~
 - Reading seminar
   - Somers, J. (2023). Begin End: A coder on the waning days of the craft. _New Yorker_, 99(38), 14-18. ([Direct Link](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)) ([UMD Link](https://web-p-ebscohost-com.proxy-um.researchport.umd.edu/ehost/detail/detail?vid=7&sid=acd05f73-fc24-46b8-84dd-909174c20503%40redis&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3D%3D#AN=173542209&db=ulh))
   - [Chapter 1: "Uneven Innovation: The Evolution of the Urban Technology Project" (pp. 1–30)] Clark, J. (2020). _Uneven Innovation_… ([UMD Link](https://ebookcentral.proquest.com/lib/umdcp/reader.action?docID=5763883))
