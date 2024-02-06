@@ -26,7 +26,7 @@ Students should submit all assignments as pull requests to this repository. Any 
 |[Week 7: Mar 11](#march-11th-week-7)|Geospatial Data|[Zoom](https://umd.zoom.us/j/97370863271)|Emma, Katy|||
 |[Spring Break: Mar 18](#march-18th-spring-break)|🏄|***NO CLASS***|-|-|-|
 |[Week 8: Mar 25](#march-25th-week-8)|Proposal Office Hours, Set up JupyterLab (optional)|***NO CLASS***|-|-|-|
-|[Week 9: Apr 1](#april-1st-week-9)|Spatial Visualization|[Zoom](https://umd.zoom.us/j/97370863271)|Thomas|||
+|[Week 9: Apr 1](#april-1st-week-9)|Spatial Visualization|[Zoom](https://umd.zoom.us/j/97370863271)|Thomas, John|||
 |[Week 10: Apr 8](#april-8th-week-10)|BI Software|[Zoom](https://umd.zoom.us/j/97370863271)|Tayo, Sururah|||
 |[Week 11: Apr 15](#april-15th-week-11)|Advanced Spatial Analysis|***In-Person***|Saiful|||||
 |[Week 12: Apr 22](#april-22nd-week-12)|Machine Learning|[Zoom](https://umd.zoom.us/j/97370863271)|Homayoon|||
