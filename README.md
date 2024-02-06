@@ -222,7 +222,11 @@ Urban Informatics and Visualization [Course Wiki](https://github.com/mxndrwgrdnr
 
 [Software Carpentry](https://software-carpentry.org/lessons/) (Scientific computing tutorials)
 
-[Real Python](https://realpython.com/) (Python tutorials)
+[Real Python](https://realpython.com/) (Python tutorials, monthly subscription with free trial)
+
+[datadamp](https://www.datacamp.com/) (Coding tutorials, monthly subscription with free trial)
+
+[LinkedIn Learning](https://sites.google.com/umd.edu/linkedinlearningumd/home/) (Software tutorials, free for UMD students)
 
 ## Acknowledgements
 
