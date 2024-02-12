@@ -295,7 +295,7 @@ This course is inspired by numerous other courses and colleagues, especially:
   - Pandas DataFrames
 - Tabular analysis
   - Calculations with columns 
-    - Vectorized vs looped
+    - Vectorized vs. looped
       - `apply`
     - Summaries
     - Grouping
