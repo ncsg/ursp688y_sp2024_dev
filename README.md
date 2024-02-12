@@ -291,23 +291,24 @@ This course is inspired by numerous other courses and colleagues, especially:
 ### February 12th (Week 3)
 
 - Importing packages
+- Documentation
 - Classes
-  - Pandas DataFrames
-- Tabular analysis
-  - Calculations with columns 
-    - Vectorized vs. looped
-      - `apply`
-    - Summaries
-    - Grouping
-  - Table structure
-    - Units of analysis
-    - Tidy data
-    - Reshaping
-      - wide vs. long
-  - ~~Numpy~~
-  - ~~CSVs~~
-  - ~~Parquet~~
-  - ~~Databases~~
+- Table structure
+  - Tidy data
+- Pandas
+  - DataFrames
+  - Calculations with columns
+  - Series
+  - Previewing
+  - Selection and filtering
+  - Grouping
+  - Apply
+  - Converting wide to long
+- Using a debugger
+- ~~Numpy~~
+- ~~CSVs~~
+- ~~Parquet~~
+- ~~Databases~~
 - Reading seminar
   - [Chapter 2: "Smart Cities as Solutions" (pp. 31–56)]
  [Chapter 3: "Smart Cities as Emerging Markets" (pp. 57–94)]
