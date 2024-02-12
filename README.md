@@ -290,15 +290,24 @@ This course is inspired by numerous other courses and colleagues, especially:
 
 ### February 12th (Week 3)
 
-- Tabular Analysis
+- Importing packages
+- Classes
+  - Pandas DataFrames
+- Tabular analysis
+  - Calculations with columns 
+    - Vectorized vs looped
+      - `apply`
+    - Summaries
+    - Grouping
   - Table structure
+    - Units of analysis
     - Tidy data
-    - Wide vs. Long
-  - Numpy
-  - Pandas
-  - CSVs
-  - Parquet
-  - Databases
+    - Reshaping
+      - wide vs. long
+  - ~~Numpy~~
+  - ~~CSVs~~
+  - ~~Parquet~~
+  - ~~Databases~~
 - Reading seminar
   - [Chapter 2: "Smart Cities as Solutions" (pp. 31–56)]
  [Chapter 3: "Smart Cities as Emerging Markets" (pp. 57–94)]
