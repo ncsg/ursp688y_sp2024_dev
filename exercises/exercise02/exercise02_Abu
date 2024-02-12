@@ -1,0 +1,42 @@
+# Write your program here
+pseudocode
+#Question 1
+#Use a code to identify all the services types resquested
+#create a list for all the request type
+#use count to count the number of service request for each type
+
+#question 2
+#use a code to identify all the cities in the data
+#create a list for all the cities
+#use count to calculate the numeber of resquests from the cities
+
+
+from collections import Counter
+
+service_request_list = []
+location_list = []
+
+for request_type in service_requests:
+  #print(service_requests[rquest_type]['Request Type'])
+  service_request_list.append(service_requests[request_type]['Request Type'])
+
+john_counter = Counter(service_request_list)
+print(john_counter)
+
+for city in service_requests:
+  # print(service_requests[city]['City'])
+  location_list.append(service_requests[city]['City'])
+
+john_counter2 = Counter(location_list)
+print(john_counter2)
+
+function_list = []
+
+def number_calculator(dict_john, category):
+  for type in dict_john:
+  # print(service_requests[city]['City'])
+    function_list.append(dict_john[type][category])
+  john_counter3 = Counter(function_list)
+  print(john_counter3)
+
+number_calculator(service_requests, "Inspector")
