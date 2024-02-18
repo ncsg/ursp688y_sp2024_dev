@@ -19,7 +19,7 @@ Students should submit all assignments as pull requests to this repository. Any 
 |:--|:--|:--|:--|:--|:--|
 |[Week 1: Jan 29](#january-29th-week-1)|[Course Introduction](https://docs.google.com/presentation/d/1vllGdhjq-d0KDmlYgA3P2gRUajX4qryOYB5n8_H7aEw/edit?usp=sharing), Programming Fundamentals|***In-Person***|-|[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ncsg/ursp688y_sp2024/blob/main/demos/demo01/demo01.ipynb)|[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ncsg/ursp688y_sp2024/blob/main/exercises/exercise01/exercise01.ipynb)|
 |[Week 2: Feb 5](#february-5th-week-2)|More Programming Fundamentals|[Zoom](https://umd.zoom.us/j/97370863271)|Jesse|[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ncsg/ursp688y_sp2024/blob/main/demos/demo02/demo02.ipynb)|[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ncsg/ursp688y_sp2024/blob/main/exercises/exercise02/exercise02.ipynb)|
-|[Week 3: Feb 12](#february-12th-week-3)|Tabular Analysis|[Zoom](https://umd.zoom.us/j/97370863271)|Kayla, Fahmi|||
+|[Week 3: Feb 12](#february-12th-week-3)|Tabular Analysis|[Zoom](https://umd.zoom.us/j/97370863271)|Kayla, Fahmi|[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ncsg/ursp688y_sp2024/blob/main/demos/demo03/demo03.ipynb)|[<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/ncsg/ursp688y_sp2024/blob/main/exercises/exercise03/exercise03.ipynb)|
 |[Week 4: Feb 19](#february-19th-week-4)|Reproducability & Collaboration|[Zoom](https://umd.zoom.us/j/97370863271)|Jona|||
 |[Week 5: Feb 26](#february-26th-week-5)|Accessing and Wrangling Data|***In-Person***|Mimi|||
 |[Week 6: Mar 4](#march-4th-week-6)|Basic Visualization|[Zoom](https://umd.zoom.us/j/97370863271)|Alanna, Salma|||
@@ -290,15 +290,25 @@ This course is inspired by numerous other courses and colleagues, especially:
 
 ### February 12th (Week 3)
 
-- Tabular Analysis
-  - Table structure
-    - Tidy data
-    - Wide vs. Long
-  - Numpy
-  - Pandas
-  - CSVs
-  - Parquet
-  - Databases
+- Importing packages
+- Documentation
+- Classes
+- Table structure
+  - Tidy data
+- Pandas
+  - DataFrames
+  - Calculations with columns
+  - Series
+  - Previewing
+  - Selection and filtering
+  - Grouping
+  - Apply
+  - Converting wide to long
+- Using a debugger
+- ~~Numpy~~
+- ~~CSVs~~
+- ~~Parquet~~
+- ~~Databases~~
 - Reading seminar
   - [Chapter 2: "Smart Cities as Solutions" (pp. 31–56)]
  [Chapter 3: "Smart Cities as Emerging Markets" (pp. 57–94)]
